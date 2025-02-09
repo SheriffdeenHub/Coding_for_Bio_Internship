@@ -15,3 +15,12 @@ team_glycine_max <- data.frame(
 cat("\nTeam Glycine Max Information\n")
 
 print(team_glycine_max)
+
+# GitHub links of team members
+# Sheriffdeen - https://github.com/SheriffdeenHub/Coding_for_Bio_Internship
+# Julian - 
+# Toyin - 
+# Musa - 
+
+# Link to the LinkedIn post
+#
